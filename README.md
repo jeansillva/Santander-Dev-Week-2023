@@ -1,6 +1,6 @@
 # Santander-Dev-Week-2023
 
-API Replica Desenvolvida em curso e replicada no Github para prática e estudos! 
+API Réplica Desenvolvida em curso e replicada no Github para prática e estudos! 
 Java RESTful criada para a Santander Dev Week (Lab Replicado)
 
 # Diagrama de Classes:
